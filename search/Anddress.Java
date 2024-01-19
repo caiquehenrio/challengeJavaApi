@@ -1,5 +1,3 @@
-package search;
-
 public record Anddress(String cep,
                        String logradouro,
                        String complemento,
